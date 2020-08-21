@@ -7,7 +7,7 @@ I am a data scientist working on building Machine Learning and data science prod
 - 👯 I’m looking to collaborate on building web apps and ML
 - 💬 Ask me about building and deploying Machine Learning Applications 
 - 📫 How to reach me: email at bkesari@outlook.com
-- ⚡ Fun fact: I was a molecular biologist and public policy advisor and now a data scientist 
+- ⚡ Fun fact: I was a molecular biologist and public policy advisor, and now I am data scientist 
 
 <b>Tech Stack</b>
 
