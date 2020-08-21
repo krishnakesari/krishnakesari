@@ -19,8 +19,8 @@ I am a data scientist working on building Machine Learning and data science prod
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="36px" src="https://www.clipartmax.com/png/middle/87-879804_exported-database-from-azure-sql-failed-to-be-imported-sql-azure.png" />
 <img align="left" alt="MySQL" width="55px" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/MySQL_Logo.png/104px-MySQL_Logo.png" />
-<img align="left" alt="Git" width="85px" src="https://git-scm.com/images/logos/2color-lightbg@2x.png" />
-<img align="left" alt="GitHub" width="36px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+<img align="left" alt="Git" width="90px" src="https://git-scm.com/images/logos/2color-lightbg@2x.png" />
+<img align="left" alt="GitHub" width="55px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br>
