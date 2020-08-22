@@ -26,9 +26,6 @@ I am a data scientist working on building Machine Learning and data science prod
 <br>
 <br>
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakesari&layout=compact)](https://github.com/krishnakesari/github-readme-stats)
-
 <b> Connect with me </b>
 
 [<img src="https://img.shields.io/twitter/follow/KrishnaKesariB?style=social" />](https://twitter.com/KrishnaKesariB) 
