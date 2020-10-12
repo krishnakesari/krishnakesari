@@ -22,7 +22,6 @@ I am a data scientist working on building Machine Learning and data science prod
 [<img align="left" alt="PostgreSQL" width="50px" src="https://sp.postgresqltutorial.com/wp-content/uploads/2012/08/What-is-PostgreSQL.png" />](https://www.postgresql.org/)
 [<img align="left" alt="Neo4j" width="60px" src="https://www.pngkey.com/png/full/231-2317101_neo-icon-neo4j-logo.png" />](https://neo4j.com/)
 <img align="left" alt="Git" width="90px" src="https://git-scm.com/images/logos/2color-lightbg@2x.png" />
-<img align="left" alt="GitHub" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br>
