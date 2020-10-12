@@ -13,7 +13,7 @@ I am a data scientist working on building Machine Learning and data science prod
 
 [<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
 [<img align="left" alt="R" width="36px" src="https://www.r-project.org/Rlogo.png" />](https://www.r-project.org/)
-[<img align="left" alt="React" width="70px" src="https://img.favpng.com/4/1/17/react-javascript-vue-js-logo-png-favpng-T97hHj5T2UsnURsbZ0PB5Mi3c.jpg" />](https://reactjs.org/)
+[<img align="left" alt="React" width="36px" src="https://img.favpng.com/4/1/17/react-javascript-vue-js-logo-png-favpng-T97hHj5T2UsnURsbZ0PB5Mi3c.jpg" />](https://reactjs.org/)
 [<img align="left" alt="Django" width="70px" src="https://miro.medium.com/max/600/1*grQtRddJZ6pLErj2yeRYPA.png" />](https://www.djangoproject.com/)
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
