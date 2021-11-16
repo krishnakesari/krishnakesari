@@ -3,7 +3,7 @@
 I am a data scientist working on building Machine Learning and data science products. I enjoy working on R, Python, SQL, PyTorch, R-Shiny, and django. 
 
 - 🔭 I’m currently working on building a django app for Machine Learning pipelines
-- 🌱 I’m currently learning AI Engineering
+- 🌱 I’m currently learning Scala for big data analysis 
 - 👯 I’m looking to collaborate on building web apps and ML
 - 💬 Ask me about building and deploying Machine Learning Applications 
 - 📫 How to reach me: email at bkesari@outlook.com
