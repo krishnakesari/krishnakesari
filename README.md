@@ -34,6 +34,6 @@ I am a data scientist working on building Machine Learning and data science prod
 
 <b> GitHub Stats </b>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnakesari&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakesari&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnakesari&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakesari&theme=react)
