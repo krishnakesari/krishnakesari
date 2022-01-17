@@ -3,13 +3,13 @@
 I am a data scientist working on building Machine Learning and data science products. I enjoy working on R, Python, SQL, React, PyTorch, R-Shiny, and FastAPI. 
 
 - 🔭 I’m currently working on building a ReactJS (Front end) & FastAPI (Python Backend) to develop Machine Learning tools
-- 🌱 I’m currently learning Scala for big data analysis 
+- 🌱 I’m currently learning Mathematics of Machine Learning and PyTorch
 - 👯 I’m looking to collaborate on building web apps and ML
 - 💬 Ask me about building and deploying Machine Learning Applications 
 - 📫 How to reach me: email at bkesari@outlook.com
 - ⚡ Fun fact: I was a molecular biologist and public policy advisor, and now I am data scientist 
 
-<b>Tech Stack</b>
+<b>Tech Stack </b>
 
 [<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
 [<img align="left" alt="R" width="36px" src="https://www.r-project.org/Rlogo.png" />](https://www.r-project.org/)
@@ -32,4 +32,7 @@ I am a data scientist working on building Machine Learning and data science prod
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@krish9a)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bkesari/)
 
+<b> GitHub Stats </b>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnakesari&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakesari&theme=tokyonight)
