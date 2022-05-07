@@ -2,7 +2,7 @@
 
 I am a data scientist working on building Machine Learning and data science products. I enjoy working on R, Python, SQL, React, PyTorch, R-Shiny, and FastAPI. 
 
-- 🔭 I’m currently working on building a ReactJS (Front end) & FastAPI (Python Backend) to deploy Machine Learning tools
+- 🔭 I’m building ReactJS (Front end) & FastAPI (Python Backend) to deploy Machine Learning tools
 - 🔬 I'm exploring pattern detection models using Cypher
 - 🌱 I’m currently learning Mathematics of Machine Learning and PyTorch
 - 👯 I’m looking to collaborate on building web apps and ML
