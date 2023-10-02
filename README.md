@@ -29,7 +29,6 @@ I am a data scientist working on building Machine Learning and data science prod
 <br>
 <b> Connect with me </b>
 
-[<img src="https://img.shields.io/twitter/follow/KrishnaKesariB?style=social" />](https://twitter.com/KrishnaKesariB) 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@krish9a)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bkesari/)
 
