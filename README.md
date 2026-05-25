@@ -13,85 +13,76 @@ I'm a **Senior Data & AI Architect** designing end-to-end data and AI platforms 
 
 ---
 
-**🧠 AI / Machine Learning**
+#### 🧠 AI / Machine Learning
 
-[<img align="left" alt="PyTorch" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png" />](https://pytorch.org/)
-[<img align="left" alt="TensorFlow" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />](https://www.tensorflow.org/)
-[<img align="left" alt="scikit-learn" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/)
-[<img align="left" alt="Hugging Face" width="36px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />](https://huggingface.co/)
-[<img align="left" alt="LangChain" width="36px" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" />](https://www.langchain.com/)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-<br clear="left"/>
-<br>
+#### 📊 Data Science & Statistics
 
-**📊 Data Science & Statistics**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-[<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
-[<img align="left" alt="R" width="36px" src="https://www.r-project.org/Rlogo.png" />](https://www.r-project.org/)
-[<img align="left" alt="Pandas" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pandas/pandas.png" />](https://pandas.pydata.org/)
-[<img align="left" alt="NumPy" width="36px" src="https://numpy.org/images/logo.svg" />](https://numpy.org/)
-[<img align="left" alt="Jupyter" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />](https://jupyter.org/)
+#### 🧬 Bioinformatics & Genomics
 
-<br clear="left"/>
-<br>
+![Bioconductor](https://img.shields.io/badge/Bioconductor-1A81C2?style=for-the-badge&logo=r&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?style=for-the-badge&logo=nextflow&logoColor=white)
+![Snakemake](https://img.shields.io/badge/Snakemake-039475?style=for-the-badge&logo=snakemake&logoColor=white)
+![Bioconda](https://img.shields.io/badge/Bioconda-43B02A?style=for-the-badge&logo=anaconda&logoColor=white)
+![GATK](https://img.shields.io/badge/GATK-005571?style=for-the-badge&logoColor=white)
+![Seurat](https://img.shields.io/badge/Seurat-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![DESeq2](https://img.shields.io/badge/DESeq2-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-**🧬 Bioinformatics & Genomics**
+#### 🏗️ Data Engineering & Platforms
 
-[<img align="left" alt="Bioconductor" width="80px" src="https://bioconductor.org/images/logo_bioconductor.gif" />](https://bioconductor.org/)
-[<img align="left" alt="Nextflow" width="36px" src="https://avatars.githubusercontent.com/u/6698688?s=200&v=4" />](https://www.nextflow.io/)
-<img align="left" alt="Bioconda" width="36px" src="https://bioconda.github.io/_images/bioconda.png" />
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
 
-<br clear="left"/>
-<sub><i>Also working with: GATK · BWA · samtools · Seurat · DESeq2 · edgeR · Snakemake</i></sub>
+#### ☁️ Cloud & DevOps
 
-<br><br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**🏗️ Data Engineering & Platforms**
+#### 🗄️ Databases & APIs
 
-[<img align="left" alt="Spark" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/apache-spark/apache-spark.png" />](https://spark.apache.org/)
-[<img align="left" alt="Airflow" width="36px" src="https://airflow.apache.org/images/feature-image.png" />](https://airflow.apache.org/)
-[<img align="left" alt="dbt" width="36px" src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" />](https://www.getdbt.com/)
-[<img align="left" alt="Databricks" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" />](https://www.databricks.com/)
-[<img align="left" alt="Snowflake" width="36px" src="https://companieslogo.com/img/orig/SNOW-35164165.png" />](https://www.snowflake.com/)
-[<img align="left" alt="Kafka" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/apache-kafka/apache-kafka.png" />](https://kafka.apache.org/)
-
-<br clear="left"/>
-<br>
-
-**☁️ Cloud & DevOps**
-
-[<img align="left" alt="AWS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />](https://aws.amazon.com/)
-[<img align="left" alt="Azure" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />](https://azure.microsoft.com/)
-[<img align="left" alt="GCP" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google-cloud/google-cloud.png" />](https://cloud.google.com/)
-[<img align="left" alt="Docker" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com/)
-[<img align="left" alt="Kubernetes" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />](https://kubernetes.io/)
-[<img align="left" alt="Terraform" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />](https://www.terraform.io/)
-
-<br clear="left"/>
-<br>
-
-**🗄️ Databases & APIs**
-
-<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-[<img align="left" alt="PostgreSQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://www.postgresql.org/)
-[<img align="left" alt="Neo4j" width="60px" src="https://dist.neo4j.com/wp-content/uploads/20210423072428/neo4j-logo-2020-1.svg" />](https://neo4j.com/)
-[<img align="left" alt="FastAPI" width="36px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />](https://fastapi.tiangolo.com/)
-[<img align="left" alt="GraphQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />](https://graphql.org/)
-
-<br clear="left"/>
-<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ---
 
-**🤝 Connect with me**
+#### 🤝 Connect with me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bkesari/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@krish9a)
-[<img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:bkesari@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bkesari/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@krish9a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bkesari@outlook.com)
 
-<br>
-
-**📈 GitHub Stats**
+#### 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakesari&theme=github_dark&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnakesari&show_icons=true&theme=github_dark)
